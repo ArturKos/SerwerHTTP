@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc httpd.c  -o myhttpd && ./myhttpd 81 ./www
